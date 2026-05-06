@@ -1,5 +1,17 @@
 {
   "version": 1,
-  "updatedAt": 0,
-  "users": {}
+  "updatedAt": 1778058051022,
+  "users": {
+    "tuni": {
+      "displayName": "Tuni",
+      "lastActive": 1778058051022,
+      "stats": {
+        "streak": 4,
+        "weekDecks": 9,
+        "weekAvgScore": 87,
+        "todayDecks": 2,
+        "todayQuestions": 100
+      }
+    }
+  }
 }
