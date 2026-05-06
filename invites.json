@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "codes": []
+  "codes": [
+    {
+      "code": "HKU98W",
+      "label": "1234",
+      "createdAt": 1778058069324,
+      "usedBy": null
+    }
+  ]
 }
